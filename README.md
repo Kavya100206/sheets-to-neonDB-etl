@@ -284,15 +284,15 @@ This project demonstrates real-world data engineering capabilities:
 
 ## Security
 
-- ✅ All credentials gitignored
-- ✅ SSL/TLS encrypted database connections
-- ✅ Parameterized SQL queries (SQL injection prevention)
-- ✅ Service account with minimal permissions
-- ✅ Transaction-based data integrity
+-  All credentials gitignored
+-  SSL/TLS encrypted database connections
+-  Parameterized SQL queries (SQL injection prevention)
+-  Service account with minimal permissions
+-  Transaction-based data integrity
 
 ---
 
-## 🧪 Testing & Verification
+## Testing & Verification
 
 **Automated Tests:**
 - Database connectivity
