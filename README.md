@@ -41,16 +41,6 @@ Data-engineering-assignment/
 │   ├── sheets-test.js    # Google Sheets API test
 │   ├── test-schema.js    # Schema validation
 │   └── verify-etl-data.js  # ETL data verification
-├── docs/                  # Documentation
-│   ├── task2-data-audit.md              # Data quality analysis
-│   ├── er-diagram.png                   # Database ER diagram
-│   ├── notion-task1-environment-setup.md
-│   ├── notion-task3-database-design.md
-│   ├── notion-task4-etl-pipeline.md
-│   ├── notion-task5-sql-development.md
-│   ├── notion-task6-apps-script.md
-│   ├── notion-task7-public-datasets.md
-│   └── SCREENSHOT-CHECKLIST.md
 ├── credentials/           # Environment & credentials (gitignored)
 │   ├── .env              # Database connection string
 │   ├── JSONKEYFILE.json  # Google service account key
