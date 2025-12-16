@@ -2,8 +2,6 @@
 
 A production-ready data engineering solution that automates the migration of Google Sheets data to PostgreSQL, featuring real-time synchronization, comprehensive data cleaning, and performance-optimized analytics.
 
-=======
-
 ---
 
 ## What This Project Does
@@ -11,12 +9,12 @@ A production-ready data engineering solution that automates the migration of Goo
 This ETL pipeline solves a common data engineering challenge: transforming messy, unstructured spreadsheet data into a clean, normalized relational database with automated workflows and real-time capabilities.
 
 **Key Capabilities:**
-- ✅ Automated data extraction from Google Sheets
-- ✅ Robust data cleaning and validation (handles 8+ data quality issues)
-- ✅ Real-time auto-registration with instant feedback
-- ✅ Performance-optimized SQL queries and database design
-- ✅ Email notifications and visual feedback system
-- ✅ RESTful API for programmatic access
+-  Automated data extraction from Google Sheets
+-  Robust data cleaning and validation (handles 8+ data quality issues)
+-  Real-time auto-registration with instant feedback
+-  Performance-optimized SQL queries and database design
+-  Email notifications and visual feedback system
+-  RESTful API for programmatic access
 
 ---
 
