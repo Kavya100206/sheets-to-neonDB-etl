@@ -1,10 +1,4 @@
-# Data Engineering Assignment - Google Sheets to NeonDB ETL
-
-**Project**: Backend Developer Intern Assignment  
-**Objective**: Build complete data pipeline from Google Sheets to PostgreSQL/NeonDB  
-**Status**: ✅ **ALL TASKS COMPLETE**  
-**Date**: December 14-16, 2025
-
+# Google Sheets to NeonDB ETL
 ---
 
 ## 📊 Project Overview
