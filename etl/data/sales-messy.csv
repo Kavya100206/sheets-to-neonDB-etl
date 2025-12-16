@@ -1,0 +1,26 @@
+Sale ID,Customer Name,Customer Email,Product Name,Quantity,Unit Price,Sale Date,Region,Sales Rep
+1,Tech Corp,info@techcorp.com,Laptop,5,1200.00,2024-01-15,North,Alice Johnson
+2,  Retail Plus  ,retail@plus.com,Mouse,10,25.50,01/20/2024,SOUTH,Bob Smith
+3,Tech Corp,info@techcorp.com,Laptop,3,1200.00,2024-01-15,North,Alice Johnson
+4,Global Industries,,Keyboard,0,75.00,2024-02-10,East,
+5,Small Business,invalid-email,Monitor,2,350.00,15-03-2024,west,Charlie Davis
+6,Enterprise LLC,contact@enterprise.com,Headphones,8,89.99,2024-03-20,North,Alice Johnson
+7,,sales@corp.com,Webcam,4,120.00,2024-04-05,South,Bob Smith
+8,Tech Solutions,tech@solutions.com,Docking Station,-2,180.00,04/15/2024,WEST,Charlie Davis
+9,Mega Corp,mega@corp.com,USB Drive,50,12.99,2024-05-01,North,Alice Johnson
+10,Quick Shop,quick@shop.com,HDMI Cable,15,19.99,2024-05-10,East,Diana Miller
+11,  TECH CORP  ,INFO@TECHCORP.COM,Mouse,7,25.50,2024-05-15,north,Alice Johnson
+12,Budget Store,,Monitor,1,350.00,15-06-2024,South,
+13,Premium Tech,premium@tech.com,Laptop,2,1200.00,2024-06-20,West,Charlie Davis
+14,Office Supplies,office@supplies.com,Printer,3,299.99,06/25/2024,East,Diana Miller
+15,Home Office,home@office.com,Desk Chair,4,189.00,2024-07-01,North,Alice Johnson
+16,Startup Inc,,,5,75.00,2024-07-10,south,Bob Smith
+17,Tech Corp,info@techcorp.com,Monitor,1,350.00,2024-07-15,North,Alice Johnson
+18,Digital World,digital@world.com,Graphics Tablet,2,450.00,15-08-2024,West,Charlie Davis
+19,Smart Solutions,smart@solutions.com,Webcam,6,120.00,2024-08-20,East,Diana Miller
+20,Innovation Hub,innovation@hub.com,Laptop,4,1200.00,08/25/2024,NORTH,Alice Johnson
+21,,missing@customer.com,Mouse,12,25.50,2024-09-01,South,Bob Smith
+22,Cloud Services,cloud@services.com,Server Rack,1,2500.00,2024-09-10,West,Charlie Davis
+23,Data Center,data@center.com,  Network Switch  ,3,899.00,15-09-2024,East,
+24,Retail Plus,retail@plus.com,USB Drive,25,12.99,2024-09-20,south,Bob Smith
+25,Tech Corp,info@techcorp.com,Headphones,10,89.99,2024-09-25,North,Alice Johnson

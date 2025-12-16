@@ -1,0 +1,93 @@
+# =====================================================
+# Data Engineering Assignment - .gitignore
+# Prevents sensitive data and unnecessary files from being committed
+# =====================================================
+
+# =====================================================
+# CREDENTIALS & SECRETS (CRITICAL - NEVER COMMIT)
+# =====================================================
+credentials/.env
+credentials/JSONKEYFILE.json
+credentials/*.json
+!credentials/package.json
+.env
+*.pem
+*.key
+*_SECRET*
+*_KEY*
+
+# =====================================================
+# DEPENDENCIES
+# =====================================================
+node_modules/
+credentials/node_modules/
+package-lock.json
+
+# =====================================================
+# LOGS & DEBUGGING
+# =====================================================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+*.log.*
+
+# =====================================================
+# DOCUMENTATION (All in Notion)
+# =====================================================
+docs/
+
+# =====================================================
+# OS GENERATED FILES
+# =====================================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# =====================================================
+# IDE & EDITOR FILES
+# =====================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# =====================================================
+# AI ASSISTANT WORKSPACE (OPTIONAL)
+# =====================================================
+.gemini/
+
+# =====================================================
+# TEMPORARY FILES
+# =====================================================
+*.tmp
+*.temp
+.cache/
+.temp/
+
+# =====================================================
+# BUILD & OUTPUT (if applicable)
+# =====================================================
+dist/
+build/
+*.min.js
+*.min.css
+
+# =====================================================
+# KEEP THESE (Important)
+# =====================================================
+# All .js files (ETL, API, tests) ✅
+# All .sql files (schema, queries) ✅
+# All .md files (documentation) ✅
+# package.json ✅
+# Project structure ✅

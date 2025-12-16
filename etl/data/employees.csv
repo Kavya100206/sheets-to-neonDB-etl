@@ -1,0 +1,26 @@
+Employee ID,First Name,Last Name,Email,Phone,Hire Date,Job Title,Salary,Department,Manager
+1,John,Doe,john.doe@company.com,9876543210,2020-01-15,Software Engineer,75000,Engineering,Sarah Chen
+2,Jane,Smith,jane.smith@company.com,8765432109,2019-03-20,Product Manager,85000,Product,Michael Brown
+3,Bob,Johnson,bob.johnson@company.com,7654321098,2021-06-10,Data Analyst,65000,Analytics,Sarah Chen
+4,Alice,Williams,alice.williams@company.com,9543210987,2018-09-05,Senior Engineer,95000,Engineering,Sarah Chen
+5,Charlie,Brown,charlie.brown@company.com,8432109876,2022-02-14,Marketing Manager,80000,Marketing,Michael Brown
+6,Diana,Davis,diana.davis@company.com,7321098765,2020-11-30,HR Specialist,60000,Human Resources,Lisa Anderson
+7,Eve,Martinez,eve.martinez@company.com,9210987654,2019-07-22,Sales Rep,55000,Sales,David Wilson
+8,Frank,Garcia,frank.garcia@company.com,8109876543,2021-04-18,DevOps Engineer,82000,Engineering,Sarah Chen
+9,Grace,Rodriguez,grace.rodriguez@company.com,7098765432,2020-08-25,UX Designer,70000,Design,Emma Taylor
+10,Henry,Wilson,henry.wilson@company.com,9987654321,2022-01-10,Junior Developer,58000,Engineering,Sarah Chen
+11,Ivy,Moore,ivy.moore@company.com,8876543219,2019-12-05,Accountant,68000,Finance,Robert Lee
+12,Jack,Taylor,jack.taylor@company.com,7765432108,2021-09-15,Content Writer,52000,Marketing,Michael Brown
+13,Kate,Anderson,kate.anderson@company.com,9654321087,2020-05-20,QA Tester,62000,Quality Assurance,Sarah Chen
+14,Leo,Thomas,leo.thomas@company.com,8543210976,2018-11-10,Senior Analyst,88000,Analytics,Sarah Chen
+15,Mia,Jackson,mia.jackson@company.com,7432109865,2022-03-08,Recruiter,59000,Human Resources,Lisa Anderson
+16,Noah,White,noah.white@company.com,9321098754,2019-06-12,Sales Manager,92000,Sales,David Wilson
+17,Olivia,Harris,olivia.harris@company.com,8210987643,2021-07-28,Product Designer,74000,Design,Emma Taylor
+18,Paul,Martin,paul.martin@company.com,7109876532,2020-10-14,Backend Engineer,78000,Engineering,Sarah Chen
+19,Quinn,Lee,quinn.lee@company.com,9098765421,2022-04-22,Financial Analyst,66000,Finance,Robert Lee
+20,Ruby,Walker,ruby.walker@company.com,8987654310,2019-08-30,Customer Success,61000,Support,Jennifer Kim
+21,Sam,Hall,sam.hall@company.com,7876543209,2021-11-05,Data Scientist,87000,Analytics,Sarah Chen
+22,Tina,Allen,tina.allen@company.com,9765432198,2020-02-18,Legal Counsel,95000,Legal,Amanda Rodriguez
+23,Uma,Young,uma.young@company.com,8654321087,2022-05-10,Social Media Manager,63000,Marketing,Michael Brown
+24,Victor,King,victor.king@company.com,7543210976,2019-04-25,Security Engineer,91000,Engineering,Sarah Chen
+25,Wendy,Wright,wendy.wright@company.com,9432109865,2021-08-16,Operations Manager,84000,Operations,Steven Park
