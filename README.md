@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Google Sheets to NeonDB ETL Pipeline
 
 A production-ready data engineering solution that automates the migration of Google Sheets data to PostgreSQL, featuring real-time synchronization, comprehensive data cleaning, and performance-optimized analytics.
@@ -24,7 +23,6 @@ This ETL pipeline solves a common data engineering challenge: transforming messy
 ## Architecture
 
 ```
-<<<<<<< HEAD
 Google Sheets / CSV Data
         ↓
    Extract Layer
